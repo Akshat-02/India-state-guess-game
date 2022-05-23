@@ -8,7 +8,7 @@
 # import pandas
 
 # #Setting the PATH of image
-# image = "F:\Python programs\India state guess game\india.gif"
+# image = "india.gif"
 
 # #Creating screen object
 # screen = Screen()
