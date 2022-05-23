@@ -1,4 +1,4 @@
-"""Do not run this file, it's task is already done.
+"""Do not run this file, its task is already done.
    
    Multiple runtime will overwrite the India_states & UTs.csv file 
 """
